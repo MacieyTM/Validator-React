@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Validator-React/static/css/main.4a574f88.chunk.css",
+    "main.js": "/Validator-React/static/js/main.3f62ff92.chunk.js",
+    "main.js.map": "/Validator-React/static/js/main.3f62ff92.chunk.js.map",
+    "runtime-main.js": "/Validator-React/static/js/runtime-main.61788f92.js",
+    "runtime-main.js.map": "/Validator-React/static/js/runtime-main.61788f92.js.map",
+    "static/js/2.bf52c1fa.chunk.js": "/Validator-React/static/js/2.bf52c1fa.chunk.js",
+    "static/js/2.bf52c1fa.chunk.js.map": "/Validator-React/static/js/2.bf52c1fa.chunk.js.map",
+    "index.html": "/Validator-React/index.html",
+    "static/css/main.4a574f88.chunk.css.map": "/Validator-React/static/css/main.4a574f88.chunk.css.map",
+    "static/js/2.bf52c1fa.chunk.js.LICENSE.txt": "/Validator-React/static/js/2.bf52c1fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61788f92.js",
+    "static/js/2.bf52c1fa.chunk.js",
+    "static/css/main.4a574f88.chunk.css",
+    "static/js/main.3f62ff92.chunk.js"
+  ]
+}
