@@ -12,3 +12,5 @@ npx create-react-app my-app
 npm start
 ```
 https://macieytm.github.io/Validator-React/
+
+![image](https://user-images.githubusercontent.com/95743795/161569500-1d22374b-ab07-4145-ae86-9222c1c7281d.png)
